@@ -1,0 +1,30 @@
+.divPai {
+  background-color: #fdcb6e;
+  width: 500px;
+  height: 500px;
+}
+
+.divFilha {
+  background-color: #55efc4;
+  width: 50%;
+  height: 50%;
+}
+.texto {
+  color: white;
+  background-color: #d63031;
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.divPai2 {
+  width: 50%;
+  height: 50vh;
+  background-color: rgb(0, 255, 255);
+}
+
+.divFilha2 {
+  width: 75vw;
+  height: 50%;
+  background-color: rgb(214, 48, 49);
+}
